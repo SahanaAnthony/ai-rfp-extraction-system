@@ -1,5 +1,6 @@
 # 🤖 AI RFP Extraction System
 
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![AI](https://img.shields.io/badge/AI-Document%20Extraction-green)
@@ -10,7 +11,9 @@ The system processes procurement-related files, extracts important bid informati
 
 Additionally, the project includes an interactive Streamlit dashboard for uploading files, visualizing extracted information, and downloading structured outputs.
 
+## 🌐 Live Demo
 
+https://ai-rfp-extraction-system.streamlit.app/
 
 # 🚀 Features
 
