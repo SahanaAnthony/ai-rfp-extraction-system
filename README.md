@@ -270,7 +270,7 @@ streamlit run dashboard.py
 
 ## Structured Data Table
 
-![Structured Table](screenshots/json download.png)
+![Structured Table](screenshots/jsondownload.png)
 
 
 
