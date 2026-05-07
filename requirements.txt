@@ -1,1 +1,7 @@
 streamlit
+pymupdf
+beautifulsoup4
+lxml
+pandas
+google-genai
+python-dotenv
