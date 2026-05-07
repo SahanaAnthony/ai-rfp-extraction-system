@@ -248,7 +248,7 @@ streamlit run dashboard.py
 
 ![Dashboard Home](Dashboard screenshots/dashboard1.png)
 
----
+
 
 ## Extracted Information View
 
@@ -260,13 +260,13 @@ streamlit run dashboard.py
 ![Extracted Information](Dashboard screenshots/dashboard7.png)
 
 
----
+
 
 ## Structured Data Table
 
-![Structured Table](screenshots/json download.png)
+![Structured Table](Dashboard screenshots/json download.png)
 
----
+
 
 # 🧠 Engineering Design Decisions
 
@@ -346,5 +346,4 @@ Sahana A
 
 Aspiring AI Engineer passionate about NLP, automation, and intelligent document processing systems.
 
-```
-```
+
