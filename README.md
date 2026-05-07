@@ -76,7 +76,9 @@ Features include:
 
 # 🏗️ System Architecture
 
-text
+# 🏗️ System Architecture
+
+```text
 PDF / HTML Documents
           ↓
      Text Extraction
@@ -86,13 +88,16 @@ PDF / HTML Documents
       JSON Generation
           ↓
  Streamlit Dashboard Interface
+```
 
 
 
 
 # 📁 Project Structure
 
-text
+# 📁 Project Structure
+
+```text
 rfp_extractor_project/
 │
 ├── data/
@@ -113,6 +118,7 @@ rfp_extractor_project/
 ├── requirements.txt
 ├── .gitignore
 └── .env
+```
 
 
 
@@ -246,25 +252,25 @@ streamlit run dashboard.py
 
 ## Dashboard Home
 
-![Dashboard Home](Dashboard screenshots/dashboard1.png)
+![Dashboard Home](screenshots/dashboard1.png)
 
 
 
 ## Extracted Information View
 
-![Extracted Information](Dashboard screenshots/dashboard2.png)
-![Extracted Information](Dashboard screenshots/dashboard3.png)
-![Extracted Information](Dashboard screenshots/dashboard4.png)
-![Extracted Information](Dashboard screenshots/dashboard5.png)
-![Extracted Information](Dashboard screenshots/dashboard6.png)
-![Extracted Information](Dashboard screenshots/dashboard7.png)
+![Extracted Information](screenshots/dashboard2.png)
+![Extracted Information](screenshots/dashboard3.png)
+![Extracted Information](screenshots/dashboard4.png)
+![Extracted Information](screenshots/dashboard5.png)
+![Extracted Information](screenshots/dashboard6.png)
+![Extracted Information](screenshots/dashboard7.png)
 
 
 
 
 ## Structured Data Table
 
-![Structured Table](Dashboard screenshots/json download.png)
+![Structured Table](screenshots/json download.png)
 
 
 
