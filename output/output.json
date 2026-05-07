@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "bid_number": "JA-207652",
+        "title": "Student and Staff Computing Devices",
+        "due_date": "July 9, 2024",
+        "bid_submission_type": "Not Found",
+        "term_of_bid": "Not Found",
+        "pre_bid_meeting": "10-JUN-2024 14:00:00",
+        "installation": "Not Found",
+        "bid_bond_requirement": "Not Found",
+        "delivery_date": "Not Found",
+        "payment_terms": "Not Found",
+        "additional_documentation_required": "Not Found",
+        "mfg_for_registration": "Not Found",
+        "contract_or_cooperative_to_use": "Not Found",
+        "contact_info": "JALZATE@dallasisd.org",
+        "company_name": "Dallas ISD",
+        "model_no": [
+            "Latitude 5550"
+        ],
+        "part_no": "Not Found",
+        "product": [
+            "Dell Latitude 5550"
+        ],
+        "warranty_info": [
+            "3-year minimum",
+            "1-year minimum"
+        ],
+        "bid_summary": "Dallas ISD is requesting proposals for student and staff computing devices.",
+        "product_specification": "Includes laptops, Chromebooks, display monitors, OEM warranty requirements, and white glove deployment services."
+    },
+    "ai_summary": "\nAI summary could not be generated because the free-tier LLM API quota was exceeded.\n\nThe application architecture successfully supports LLM integration and can generate procurement summaries when API quota is available.\n"
+}
