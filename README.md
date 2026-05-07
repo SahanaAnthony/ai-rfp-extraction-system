@@ -184,7 +184,7 @@ The project architecture supports LLM integration for AI-based summarization and
 To enable Gemini API support:
 
 ```text
-GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY=AIzaSyDp_qWYTDJdAtASIH8n1k1DLZy3q0IigH8
 ```
 
 ---
