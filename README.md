@@ -246,18 +246,18 @@ streamlit run dashboard.py
 
 ## Dashboard Home
 
-![Dashboard Home](screenshots/dashboard1.png)
+![Dashboard Home](Dashboard screenshots/dashboard1.png)
 
 ---
 
 ## Extracted Information View
 
-![Extracted Information](screenshots/dashboard2.png)
-![Extracted Information](screenshots/dashboard3.png)
-![Extracted Information](screenshots/dashboard4.png)
-![Extracted Information](screenshots/dashboard5.png)
-![Extracted Information](screenshots/dashboard6.png)
-![Extracted Information](screenshots/dashboard7.png)
+![Extracted Information](Dashboard screenshots/dashboard2.png)
+![Extracted Information](Dashboard screenshots/dashboard3.png)
+![Extracted Information](Dashboard screenshots/dashboard4.png)
+![Extracted Information](Dashboard screenshots/dashboard5.png)
+![Extracted Information](Dashboard screenshots/dashboard6.png)
+![Extracted Information](Dashboard screenshots/dashboard7.png)
 
 
 ---
